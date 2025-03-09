@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1714c4e-d082-4350-b213-9236b0f2a9d0" name="Changes" comment="" />
+    <list default="true" id="d1714c4e-d082-4350-b213-9236b0f2a9d0" name="Changes" comment="Add initial implementation of fraud detection with dashboard API deployment">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,12 +15,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Tekalig"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Tekalig&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -31,7 +33,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -53,7 +57,73 @@
       <option name="presentableId" value="Default" />
       <updated>1738956050582</updated>
       <workItem from="1738956053328" duration="24000" />
+      <workItem from="1739170185369" duration="247000" />
     </task>
+    <task id="LOCAL-00001" summary="Project setup: Initialized folder structure and base files">
+      <option name="closed" value="true" />
+      <created>1738961120453</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738961120453</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Project setup: Initialized folder structure and base files">
+      <option name="closed" value="true" />
+      <created>1738961129190</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738961129190</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add initial implementation of fraud detection with dashboard API deployment">
+      <option name="closed" value="true" />
+      <created>1738961141491</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738961141491</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add initial implementation of fraud detection with dashboard API deployment">
+      <option name="closed" value="true" />
+      <created>1738961147051</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1738961147051</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add initial implementation of fraud detection with dashboard API deployment">
+      <option name="closed" value="true" />
+      <created>1738961152808</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1738961152808</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add initial implementation of fraud detection with dashboard API deployment">
+      <option name="closed" value="true" />
+      <created>1738961156417</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1738961156417</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add initial implementation of fraud detection with dashboard API deployment">
+      <option name="closed" value="true" />
+      <created>1738961164808</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1738961164808</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Project setup: Initialized folder structure and base files" />
+    <MESSAGE value="Add initial implementation of fraud detection with dashboard API deployment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add initial implementation of fraud detection with dashboard API deployment" />
   </component>
 </project>
