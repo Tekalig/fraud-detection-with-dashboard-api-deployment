@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1714c4e-d082-4350-b213-9236b0f2a9d0" name="Changes" comment="Add initial implementation of fraud detection with dashboard API deployment">
-      <change beforePath="$PROJECT_DIR$/.idea/fraud-detection-with-dashboard-api-deployment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fraud-detection-with-dashboard-api-deployment.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_processing.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_processing.py" afterDir="false" />
-    </list>
+    <list default="true" id="d1714c4e-d082-4350-b213-9236b0f2a9d0" name="Changes" comment="Add data loading function to read CSV files into DataFrame&#10;Implement function to check for missing values in DataFrame&#10;Add function to handle missing data using sklearn SimpleImputer" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +26,9 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2sj5GhtS4rgFMiwhW10scELG1sw" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -68,7 +65,7 @@
       <workItem from="1738956053328" duration="24000" />
       <workItem from="1739170185369" duration="247000" />
       <workItem from="1741677779116" duration="1794000" />
-      <workItem from="1741679677757" duration="3095000" />
+      <workItem from="1741679677757" duration="3867000" />
     </task>
     <task id="LOCAL-00001" summary="Project setup: Initialized folder structure and base files">
       <option name="closed" value="true" />
@@ -126,7 +123,31 @@
       <option name="project" value="LOCAL" />
       <updated>1738961164808</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add functions to handle missing data using sklearn in EDA notebook">
+      <option name="closed" value="true" />
+      <created>1741683648162</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1741683648162</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update the requirements.txt">
+      <option name="closed" value="true" />
+      <created>1741683675117</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1741683675117</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add data loading function to read CSV files into DataFrame&#10;Implement function to check for missing values in DataFrame&#10;Add function to handle missing data using sklearn SimpleImputer">
+      <option name="closed" value="true" />
+      <created>1741683828983</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1741683828983</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +179,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Project setup: Initialized folder structure and base files" />
     <MESSAGE value="Add initial implementation of fraud detection with dashboard API deployment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add initial implementation of fraud detection with dashboard API deployment" />
+    <MESSAGE value="Add functions to handle missing data using sklearn in EDA notebook" />
+    <MESSAGE value="update the requirements.txt" />
+    <MESSAGE value="Add data loading function to read CSV files into DataFrame&#10;Implement function to check for missing values in DataFrame&#10;Add function to handle missing data using sklearn SimpleImputer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add data loading function to read CSV files into DataFrame&#10;Implement function to check for missing values in DataFrame&#10;Add function to handle missing data using sklearn SimpleImputer" />
   </component>
 </project>
