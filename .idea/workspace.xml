@@ -4,13 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="d1714c4e-d082-4350-b213-9236b0f2a9d0" name="Changes" comment="Add initial implementation of fraud detection with dashboard API deployment">
+=======
+    <list default="true" id="d1714c4e-d082-4350-b213-9236b0f2a9d0" name="Changes" comment="Add script to run data loading, missing values check, and handling missing data">
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,14 +43,57 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+<<<<<<< Updated upstream
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
+=======
+    "Python.EDA.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "handle-missing-values",
+    "last_opened_file_path": "/home/besu/PycharmProjects/Ten Academy Project/fraud-detection-with-dashboard-api-deployment",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+>>>>>>> Stashed changes
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+<<<<<<< Updated upstream
+=======
+  <component name="RunManager">
+    <configuration name="EDA" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fraud-detection-with-dashboard-api-deployment" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/EDA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.EDA" />
+      </list>
+    </recent_temporary>
+  </component>
+>>>>>>> Stashed changes
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -58,6 +112,11 @@
       <updated>1738956050582</updated>
       <workItem from="1738956053328" duration="24000" />
       <workItem from="1739170185369" duration="247000" />
+<<<<<<< Updated upstream
+=======
+      <workItem from="1741677779116" duration="1794000" />
+      <workItem from="1741679677757" duration="4542000" />
+>>>>>>> Stashed changes
     </task>
     <task id="LOCAL-00001" summary="Project setup: Initialized folder structure and base files">
       <option name="closed" value="true" />
@@ -115,7 +174,43 @@
       <option name="project" value="LOCAL" />
       <updated>1738961164808</updated>
     </task>
+<<<<<<< Updated upstream
     <option name="localTasksCounter" value="8" />
+=======
+    <task id="LOCAL-00008" summary="Add functions to handle missing data using sklearn in EDA notebook">
+      <option name="closed" value="true" />
+      <created>1741683648162</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1741683648162</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update the requirements.txt">
+      <option name="closed" value="true" />
+      <created>1741683675117</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1741683675117</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add data loading function to read CSV files into DataFrame&#10;Implement function to check for missing values in DataFrame&#10;Add function to handle missing data using sklearn SimpleImputer">
+      <option name="closed" value="true" />
+      <created>1741683828983</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1741683828983</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Add script to run data loading, missing values check, and handling missing data">
+      <option name="closed" value="true" />
+      <created>1741684483123</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1741684483123</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+>>>>>>> Stashed changes
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +219,17 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Project setup: Initialized folder structure and base files" />
     <MESSAGE value="Add initial implementation of fraud detection with dashboard API deployment" />
+<<<<<<< Updated upstream
     <option name="LAST_COMMIT_MESSAGE" value="Add initial implementation of fraud detection with dashboard API deployment" />
+=======
+    <MESSAGE value="Add functions to handle missing data using sklearn in EDA notebook" />
+    <MESSAGE value="update the requirements.txt" />
+    <MESSAGE value="Add data loading function to read CSV files into DataFrame&#10;Implement function to check for missing values in DataFrame&#10;Add function to handle missing data using sklearn SimpleImputer" />
+    <MESSAGE value="Add script to run data loading, missing values check, and handling missing data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add script to run data loading, missing values check, and handling missing data" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/fraud_detection_with_dashboard_api_deployment$EDA.coverage" NAME="EDA Coverage Results" MODIFIED="1741684418055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+>>>>>>> Stashed changes
   </component>
 </project>
